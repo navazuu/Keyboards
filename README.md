@@ -4,6 +4,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This guide aims to cover everything that you need for leveling up your typing experience. Starting with a brief history, this guide cover components of custom keyboards, how a keyboard works with your operating system, building/modding techniques, the basics of keymap creation and firmware flashing, and finally where to continue exploring and purchasing.
 
+**Test Your Keyboard Keys Online**
+
+If you want to <a href="https://www.keyboardtesters.com/">test your keyboard keys</a> online, there are several free tools and websites that can help you do that. These tools typically allow you to check if each key on your keyboard is working properly and can help diagnose issues with stuck or non-responsive keys. Here are a few options:
+
+Keyboard Tester (keyboardtester.com): This website offers a straightforward interface where you can press keys and see if they're registered.
+
+Key-Test (key-test.com): A simple tool that highlights the keys you press in real-time, allowing you to see which ones are responsive.
+
+Online Keyboard Tester (keyboardchecker.com): This site provides a visual representation of a keyboard and shows which keys are being pressed.
+
+Keyboard Checker (keyboardchecker.com): Offers a detailed test where you can see if each key press is being detected correctly.
+
+Just visit one of these sites, follow the instructions, and press each key on your keyboard to see if it registers. If you find any issues, it might be time to clean your keyboard or check for hardware problems.
+
+
+
+
+
+
 ---
 ## Index:
 - [A Brief History](#a-brief-history)
